@@ -8,7 +8,7 @@
 <a href="https://github.com/vinodjangid07/vinodjangid07.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
  
-![Screenshot of Website]([https://github.com/skyasinbux/yasin/blob/main/Screenshot%20(2).png])
+![Screenshot of Website]([https://github.com/skyasinbux/yasin/Screenshot(2).png])
 
 :star: Star me on GitHub — it helps!
 
