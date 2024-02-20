@@ -2,7 +2,7 @@
 <p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
 
  
-![Screenshot of Website]([https://github.com/skyasinbux/yasin/Screenshot(2).png])
+![Screenshot of Website]([https://github.com/skyasinbux/yasin/blob/main/Screenshot%20(2).png])
 
 :star: Star me on GitHub — it helps!
 
